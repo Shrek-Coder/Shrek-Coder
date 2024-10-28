@@ -70,6 +70,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+#### OS:
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+</div>
+
 ### 🔥 My Stats:
 <div align="center">
   <a href="https://git.io/streak-stats">
